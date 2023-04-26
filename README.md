@@ -10,7 +10,7 @@
 ## Internship Work
 | Internship Name | Organization | Skills Tags | Folder Link |
 | --- | --- | --- | --- |
-| Cybersecurity Virtual Experience Program, [Forage](theforage.com) | Mastercard Cybersecurity  | Designing phishing email simulation | [Internship 1](MasterCard_CyberSecurity_FORAGE) |
+| Cybersecurity Virtual Experience Program, [Forage](theforage.com) | Mastercard Cybersecurity  | Designing phishing email simulation | [Folder](MasterCard_CyberSecurity_FORAGE) |
 
 
 📁 Above table lists my internships where I worked on various projects, for different organizations. Each internship is associated with specific skills tags that I used during the work, and linked to the folder where all the work is stored.
