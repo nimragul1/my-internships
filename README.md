@@ -22,7 +22,6 @@
 
 📁 The code samples in each folder demonstrate my coding skills and the ability to solve complex problems using different programming languages and tools.
 
-## Contact Me
-📧 Feel free to reach out to me via email (hussainashiqkhattak@gmail.com) if you have any questions about the projects or if you'd like to learn more about my experience and abilities.
+
 
 Thank you for stopping by!
